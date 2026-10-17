@@ -19,12 +19,23 @@ An AI-powered assistant with a modern web interface and intelligent tools.
 
 ---
 
+### 🛡️ DevVault
+
+A secure, zero-trust cloud storage vault for developers to manage sensitive credentials, code snippets, and critical files.
+
+🌐 **[Live Demo](https://devvault-dusky.vercel.app/)**
+
+🔒 **Source Code:** Private
+
+---
+
 ### 🎵 SunoRang
 
 A personal music and playlist web application.
 
 🌐 **[Live Demo](https://sunorang.vercel.app/)**
 
+---
 
 ### 🌐 MY-Website
 
