@@ -41,9 +41,8 @@ A personal music and playlist web application.
 
 My personal portfolio and developer website.
 
-🌐 **[Live Demo](https://myportifolio-eight-taupe.vercel.app/)**
+🌐 **[Live Demo](https://mywebsites-rose.vercel.app/)**
 
-🌐 **[Live Demo](https://mywebsite-two-tau.vercel.app/)**
 
 ---
 
